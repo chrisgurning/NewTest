@@ -1,2 +1,3 @@
 var hello = "Hello World";
-console.log(hello);
+var cantik = "hello cantik";
+console.log(hello, cantik);
